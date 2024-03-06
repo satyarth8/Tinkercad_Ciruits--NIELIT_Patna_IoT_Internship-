@@ -84,3 +84,13 @@ c. BLUE LED  on receiving ‘B’ through Read the serial port(PIN8)
 <img src="https://github.com/satyarth8/Tinkercad_Ciruits--NIELIT_Patna_IoT_Internship-/assets/126249188/817b249a-e487-4bc5-8881-afcb609271a2" alt="" style="width:50%;height:auto;" />
 
 >https://www.tinkercad.com/things/bAs14Ylb9Tz-glorious-snicket-krunk/editel?sharecode=OuJ5FrWh1Gu5XzoQOgSO7rb4JFtl0meAtFB-607nIRk
+
+#
+
+### 11. Usage of ultrasonice sensor
+
+<img src="https://github.com/satyarth8/Tinkercad_Ciruits--NIELIT_Patna_IoT_Internship-/assets/126249188/7b866438-8d3e-4544-8ac9-3fdf8749bbad" alt="" style="width:50%;height:auto;" />
+
+>https://www.tinkercad.com/things/9z1J7Dpsubk-ultrasonic-satyarth/editel?returnTo=%2Fdashboard%3Fcollection%3Ddesigns%26type%3Dcircuits&sharecode=6psoDI-tMQl3bpxdJ_HsFUDQY1eU30LPJMzhb8JxHVw
+
+#
